@@ -38,6 +38,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-vercel": "^3.0.3",
+		"@vercel/analytics": "^1.0.2",
 		"gpt3-tokenizer": "^1.1.5",
 		"openai": "^4.11.1",
 		"sse.js": "^1.0.0"
